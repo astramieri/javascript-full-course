@@ -5,7 +5,6 @@ console.log(myVariabile.length); // returns: 11
 
 console.log(myVariabile.charAt(0)); // returns: "M"
 
-
 console.log(myVariabile.indexOf("at")); // returns: 1
 console.log(myVariabile.lastIndexOf("at")); // returns: 6
 
