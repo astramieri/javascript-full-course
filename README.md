@@ -17,3 +17,5 @@ Complete all-in-one Javascript tutorial by Dave Gray.
 - variables
 - operators
 	- equality vs strict-equality
+- numbers
+	- numbers methods
