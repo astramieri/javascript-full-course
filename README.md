@@ -19,3 +19,4 @@ Complete all-in-one Javascript tutorial by Dave Gray.
 	- equality vs strict-equality
 - numbers
 	- numbers methods
+	- math methods
