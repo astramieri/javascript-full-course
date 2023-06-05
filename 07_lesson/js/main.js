@@ -1,4 +1,4 @@
-// code challenge
+// if statement
 
 let customerIsBanned = false;
 let soup = "chicken noodle soup";

@@ -11,6 +11,7 @@ Complete all-in-one Javascript tutorial by Dave Gray.
 5. Math Methods
 6. Code Challenge
 7. If Statement
+8. Switch Statement
 
 ## Links
 
