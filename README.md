@@ -12,6 +12,7 @@ Complete all-in-one Javascript tutorial by Dave Gray.
 6. Code Challenge
 7. If Statement
 8. Switch Statement
+9. Ternary Operators
 
 ## Links
 
