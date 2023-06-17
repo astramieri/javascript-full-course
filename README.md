@@ -13,6 +13,7 @@ Complete all-in-one Javascript tutorial by Dave Gray.
 7. If Statement
 8. Switch Statement
 9. Ternary Operators
+10. User Input
 
 ## Links
 
@@ -32,3 +33,4 @@ Complete all-in-one Javascript tutorial by Dave Gray.
 - numbers
 	- numbers methods
 	- math methods
+- input functions
