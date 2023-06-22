@@ -14,6 +14,7 @@ Complete all-in-one Javascript tutorial by Dave Gray.
 8. Switch Statement
 9. Ternary Operators
 10. User Input
+11. Interactive Game
 
 ## Links
 
